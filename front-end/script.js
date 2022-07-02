@@ -88,3 +88,5 @@ smalImg.forEach(function (imgItem, X) {
     bigImg.src = imgItem.src;
   });
 });
+// Modal
+const modal = document.querySelector(".modal");
